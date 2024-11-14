@@ -1,0 +1,453 @@
+﻿  Bispo.cpp
+  Cavalo.cpp
+  Cor.cpp
+  Dama.cpp
+  PartidaXadrez.cpp
+  Peao.cpp
+  Peca.cpp
+  Posicao.cpp
+  PosicaoTabuleiro.cpp
+  PosicaoXadrez.cpp
+  Program.cpp
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14): warning C4091: 'typedef ': ignored on left of 'Cor' when no variable is declared
+  Rei.cpp
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14): warning C4091: 'typedef ': ignored on left of 'Cor' when no variable is declared
+  (compiling source file 'Peca.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17): warning C4091: 'typedef ': ignored on left of 'Tabuleiro' when no variable is declared
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16): warning C4091: 'typedef ': ignored on left of 'Peca' when no variable is declared
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+  (compiling source file 'Posicao.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+  (compiling source file 'PosicaoXadrez.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14): warning C4091: 'typedef ': ignored on left of 'Cor' when no variable is declared
+  (compiling source file 'Program.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+  (compiling source file 'Program.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): error C2011: 'Posicao': 'struct' type redefinition
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoXadrez.cpp(16,9): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoXadrez.cpp(17,13): error C2079: 'pos' uses undefined struct 'Posicao'
+  (compiling source file 'Program.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14): error C2011: 'Cor': 'enum' type redefinition
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14):
+      see declaration of 'Cor'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17): warning C4091: 'typedef ': ignored on left of 'Tabuleiro' when no variable is declared
+  (compiling source file 'Program.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16): warning C4091: 'typedef ': ignored on left of 'Peca' when no variable is declared
+  (compiling source file 'Program.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(5,10): error C2084: function 'Posicao *criarPosicao(int,int)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(5,10):
+      see previous definition of 'criarPosicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(11,5): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(12,5): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(16,6): error C2084: function 'void definirValores(Posicao *,int,int)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(16,6):
+      see previous definition of 'definirValores'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(18,9): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(19,9): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(23,6): error C2084: function 'void posicaoToString(Posicao *,char *,size_t)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(23,6):
+      see previous definition of 'posicaoToString'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,48): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,64): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38): warning C4473: 'snprintf' : not enough arguments passed for format string
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38):
+      placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38):
+      the missing variadic argument 1 is required by format string '%d'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(13,3): error C2371: 'Tabuleiro': redefinition; different basic types
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(25,10): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(27,14): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(37,17): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,29): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,41): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,12): error C2660: 'acessarPeca': function does not take 1 arguments
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(33,7):
+      see declaration of 'acessarPeca'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,12):
+      while trying to match the argument list '(Tabuleiro *)'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,10): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,16): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,28): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,14): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,20): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,32): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,12): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,31): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,59): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,79): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(81,19): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(83,15): error C2039: 'pecas': is not a member of 'Tabuleiro'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17): error C2011: 'Tabuleiro': 'struct' type redefinition
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16): error C2011: 'Peca': 'struct' type redefinition
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(30,7): error C2084: function 'Peca *criarPeca(Tabuleiro *,Cor)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(30,7):
+      see previous definition of 'criarPeca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(37,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(38,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(39,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(40,5): error C2027: use of undefined type 'Peca'
+  Tabuleiro.cpp
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(42,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(43,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(44,5): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(49,6): error C2084: function 'void incrementarQteMovimentos(Peca *)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(49,6):
+      see previous definition of 'incrementarQteMovimentos'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(51,9): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(55,6): error C2084: function 'void decrementarQteMovimentos(Peca *)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(55,6):
+      see previous definition of 'decrementarQteMovimentos'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(56,17): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(57,9): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(61,6): error C2084: function 'bool exemploExisteMovimentosPossiveis(Peca *)' already has a body
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(61,6):
+      see previous definition of 'exemploExisteMovimentosPossiveis'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(62,19): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(64,33): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(65,25): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(66,32): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(67,29): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(72,25): error C2027: use of undefined type 'Peca'
+  (compiling source file 'Program.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16):
+      see declaration of 'Peca'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Program.cpp(28,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Cor.cpp(4,14): warning C4091: 'typedef ': ignored on left of 'Cor' when no variable is declared
+  (compiling source file 'Tabuleiro.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16): warning C4091: 'typedef ': ignored on left of 'Posicao' when no variable is declared
+  (compiling source file 'Tabuleiro.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17): warning C4091: 'typedef ': ignored on left of 'Tabuleiro' when no variable is declared
+  (compiling source file 'Tabuleiro.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(19,16): warning C4091: 'typedef ': ignored on left of 'Peca' when no variable is declared
+  (compiling source file 'Tabuleiro.cpp')
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\PosicaoTabuleiro.cpp(4,16): error C2011: 'Posicao': 'struct' type redefinition
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(11,5): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(12,5): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(18,9): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(19,9): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,48): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,64): error C2027: use of undefined type 'Posicao'
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38): warning C4473: 'snprintf' : not enough arguments passed for format string
+  (compiling source file 'Tabuleiro.cpp')
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38):
+      placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Posicao.cpp(25,38):
+      the missing variadic argument 1 is required by format string '%d'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(13,3): error C2371: 'Tabuleiro': redefinition; different basic types
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(25,10): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(27,14): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(37,17): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,29): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,41): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,12): error C2660: 'acessarPeca': function does not take 1 arguments
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(33,7):
+      see declaration of 'acessarPeca'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(41,12):
+      while trying to match the argument list '(Tabuleiro *)'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,10): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,16): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(53,28): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,14): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,20): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(60,32): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,12): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,31): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,59): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(67,79): error C2027: use of undefined type 'Posicao'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(9,16):
+      see declaration of 'Posicao'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(81,19): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Tabuleiro.cpp(83,15): error C2039: 'pecas': is not a member of 'Tabuleiro'
+      C:\Users\vinis\source\repos\ProjetoJogoXadrez\ProjetoJogoXadrez\Peca.cpp(14,17):
+      see declaration of 'Tabuleiro'
+  
+  TabuleiroException.cpp
+  Tela.cpp
+  Torre.cpp
+  Generating Code...

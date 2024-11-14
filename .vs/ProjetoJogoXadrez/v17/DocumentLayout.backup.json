@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\PartidaXadrez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|solutionrelative:ProjetoJogoXadrez\\PartidaXadrez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Tela.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|solutionrelative:ProjetoJogoXadrez\\Tela.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16157E70-2F5A-4439-B273-764B151E6880}|ProjetoJogoXadrez\\ProjetoJogoXadrez.vcxproj|solutionrelative:ProjetoJogoXadrez\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartidaXadrez.cpp",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\PartidaXadrez.cpp",
+              "RelativeDocumentMoniker": "ProjetoJogoXadrez\\PartidaXadrez.cpp",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\PartidaXadrez.cpp",
+              "RelativeToolTip": "ProjetoJogoXadrez\\PartidaXadrez.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:07:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tela.cpp",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Tela.cpp",
+              "RelativeDocumentMoniker": "ProjetoJogoXadrez\\Tela.cpp",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Tela.cpp",
+              "RelativeToolTip": "ProjetoJogoXadrez\\Tela.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:05:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Program.cpp",
+              "RelativeDocumentMoniker": "ProjetoJogoXadrez\\Program.cpp",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\ProjetoJogoXadrez\\ProjetoJogoXadrez\\Program.cpp",
+              "RelativeToolTip": "ProjetoJogoXadrez\\Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T22:54:35.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

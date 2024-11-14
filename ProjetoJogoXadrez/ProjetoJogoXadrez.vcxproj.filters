@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Xadrez">
+      <UniqueIdentifier>{2c326f72-1ad1-4546-b80f-61393decc345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tabuleiro">
+      <UniqueIdentifier>{e664408d-2886-40c1-88e4-97344dacc009}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Cor.cpp" />
+    <ClCompile Include="Peca.cpp" />
+    <ClCompile Include="Posicao.cpp" />
+    <ClCompile Include="Tabuleiro.cpp" />
+    <ClCompile Include="TabuleiroException.cpp" />
+    <ClCompile Include="Bispo.cpp" />
+    <ClCompile Include="Cavalo.cpp" />
+    <ClCompile Include="Dama.cpp" />
+    <ClCompile Include="PartidaXadrez.cpp" />
+    <ClCompile Include="Peao.cpp" />
+    <ClCompile Include="PosicaoXadrez.cpp" />
+    <ClCompile Include="Rei.cpp" />
+    <ClCompile Include="Torre.cpp" />
+    <ClCompile Include="Tela.cpp" />
+    <ClCompile Include="PosicaoTabuleiro.cpp">
+      <Filter>Xadrez</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
